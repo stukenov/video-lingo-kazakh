@@ -1,26 +1,26 @@
 librosa==0.11.0
-pytorch-lightning==2.6.1
-lightning==2.6.1
-transformers==5.7.0
+pytorch-lightning==2.6.5
+lightning==2.6.5
+transformers==5.9.0
 moviepy==2.2.1
-numpy==2.4.4
-openai==2.33.0
+numpy==2.4.6
+openai==2.38.0
 opencv-python==4.13.0.92
 openpyxl==3.1.5
-pandas==3.0.2
+pandas==3.0.3
 pydub==0.25.1
 PyYAML==6.0.3
 replicate==1.0.7
-requests==2.33.1
+requests==2.34.2
 resampy==0.4.3
 spacy==3.8.14
-streamlit==1.57.0
+streamlit==1.58.0
 yt-dlp
 json-repair
 ruamel.yaml
 InquirerPy
 autocorrect-py
-ctranslate2==4.7.1
+ctranslate2==4.7.2
 edge-tts
 
 demucs[dev] @ git+https://github.com/adefossez/demucs
